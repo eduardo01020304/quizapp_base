@@ -31,6 +31,7 @@ body.escuro{
     --button-bg:#3b4d66;
     --shadow:0px 16px 40px 0px rgba(49, 62, 81, 0.14);
 }
+
 body{
     height: 100vh;
     background: var(--bg-mobile) var(--bg-color);
